@@ -1,4 +1,6 @@
 #  Mean and variance of a discrete  distribution
+# Name : S DINESH RAGHAVENDARA
+# Reference Number : 212224040078
 
 
 # Aim : 
